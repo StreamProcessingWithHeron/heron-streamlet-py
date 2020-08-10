@@ -1,0 +1,4 @@
+[GLOBAL]
+pants_version = "1.29.0"
+[python-repos]
+repos = ["%(buildroot)s/"]
